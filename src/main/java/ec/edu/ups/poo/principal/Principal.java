@@ -10,6 +10,11 @@ public class Principal {
 
     public static void main(String[] args){
 
+        Persona personita = new Persona();
+        personita.setCedula("0101");
+        personita.setNombre("Juan");
+        personita.setApellido("Perez");
+        personita.setDireccion("Av de la dasdasd");
         Scanner sc = new Scanner(System.in);
 //        System.out.println(persona1.toString());
 
