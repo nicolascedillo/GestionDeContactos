@@ -10,7 +10,7 @@ public class Principal {
 
     public static void main(String[] args){
 
-        System.out.println("Primer comentario del commit: Mateo Miller");
+        System.out.println("Primer comentario del commit: Mateo Miller.");
 
         Persona personita = new Persona();
         personita.setCedula("0101");
